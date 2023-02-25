@@ -10,3 +10,4 @@ Questions:
 7. https://codeforces.com/problemset/problem/263/A
 8. https://codeforces.com/problemset/problem/977/A
 9. https://codeforces.com/problemset/problem/1512/A
+10. https://codeforces.com/problemset/problem/1506/D
